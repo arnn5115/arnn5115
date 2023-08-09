@@ -1,0 +1,53 @@
+baseURL: https://arnn5115.github.io/arnn5115
+languageCode: id
+title: ARNN5115's Blog
+theme: PaperMod
+
+params:
+  author: Andika R. N. Nugraha
+  description: A blog about all things technical.
+  social:
+    - icon: github
+      name: GitHub
+      url: https://github.com/arnn5115
+    - icon: instagram
+      name: Instagram
+      url: https://instagram.com/arnn5115
+  ShowBreadCrumbs: true
+  # ShowShareButtons: true
+  homeInfoParams:
+    Title: Wellcome to My Blog 👋
+    Content: Here we talk about techs and physics stuff. Check my post below!
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: search
+      name: 🔍Search
+      url: /search/
+      weight: 5
+    - identifier: post
+      name: Post
+      url: /post/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 15
