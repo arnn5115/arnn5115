@@ -5,7 +5,7 @@ theme: PaperMod
 
 params:
   author: Andika R. N. Nugraha
-  description: A blog about all things technical.
+  description: A blog about all technical things.
   social:
     - icon: github
       name: GitHub
@@ -43,10 +43,18 @@ menu:
       name: 🔍Search
       url: /search/
       weight: 5
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 7
     - identifier: post
       name: Post
       url: /post/
-      weight: 10
+      weight: 7
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 7
     - identifier: archives
       name: Archives
       url: /archives/
