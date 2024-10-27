@@ -1,6 +1,8 @@
 ## Hello Every-nyan👋
 How are you? I'm fine. Thank you.
 
+- ⚙️ Engineering student in Institut Teknologi Sepuluh Nopember Surabaya
+- 🔭 Working to achieve better future
 <!--
 **arnn5115/arnn5115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
