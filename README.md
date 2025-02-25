@@ -1,7 +1,9 @@
-## Hello Every-nyan👋
-How are you? I'm fine. Thank you.
+# Hi, I'm Andika
+Just a humble electrical and micro embedded system nerd. Still learning tho...
 
 - ⚙️ Engineering student in Institut Teknologi Sepuluh Nopember Surabaya
+- ⚡ Electrical Staff at @IRIS-ITS Institut Teknologi Sepuluh Nopember Surabaya
+- 🌱 I’m currently learning STM32 both with hardware abstraction and bare metal
 - 🔭 Working to achieve better future
 <!--
 **arnn5115/arnn5115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
